@@ -18,7 +18,7 @@ output application/json
 ---
 {
 	"status" : "hi",
-	"code" :200
+	"code" :500
 }
 ]]></ee:set-payload>
 			</ee:message>
