@@ -17,7 +17,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"status" : "hello world-success",
+	"status" : "hello world-success test jenkins",
 	"code" :200
 }
 ]]></ee:set-payload>
